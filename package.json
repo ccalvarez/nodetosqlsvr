@@ -33,7 +33,10 @@
     "eslint-plugin-standard": "2.0.1",
     "eslint-watch": "3.0.0",
     "express": "4.14.1",
+    "msnodesqlv8": "0.2.15",
     "npm-run-all": "4.0.1",
-    "webpack": "2.2.1"
+    "open": "0.0.5",
+    "webpack": "2.2.1",
+    "webpack-dev-middleware": "1.8.4"
   }
 }
